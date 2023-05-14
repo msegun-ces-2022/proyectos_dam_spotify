@@ -1,0 +1,6 @@
+Realizado por Manuel Alberto Según Lopez como proyecto de DAM.
+No doy consentimiento para la comercializacion o mal uso de este codigo.
+Realizacion del proyecto para nota academica, sin animo de lucro.
+
+Proyecto realizado con las tecnologias SQL SERVER MANAGEMENT 18 Y 
+VISUAL STUDIO 19

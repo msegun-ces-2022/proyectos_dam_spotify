@@ -1,0 +1,192 @@
+E:\dam ciclo\Programacion\Proyectos programacion\3 Trimestre\ejemplo login\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+E:\dam ciclo\Programacion\Proyectos programacion\3 Trimestre\ejemplo login\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+E:\dam ciclo\Programacion\Proyectos programacion\3 Trimestre\ejemplo login\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+E:\dam ciclo\Programacion\Proyectos programacion\3 Trimestre\ejemplo login\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+E:\dam ciclo\Programacion\Proyectos programacion\3 Trimestre\ejemplo login\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+E:\dam ciclo\Programacion\Proyectos programacion\3 Trimestre\ejemplo login\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\dam ciclo\Programacion\Proyectos programacion\3 Trimestre\ejemplo login\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+E:\dam ciclo\Programacion\Proyectos programacion\3 Trimestre\ejemplo login\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+E:\dam ciclo\Programacion\Proyectos programacion\3 Trimestre\ejemplo login\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+E:\dam ciclo\Programacion\Proyectos programacion\3 Trimestre\ejemplo login\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+E:\dam ciclo\Programacion\Proyectos programacion\3 Trimestre\ejemplo login\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+E:\dam ciclo\Programacion\Proyectos programacion\3 Trimestre\Proyecto\ProyectoBD\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+E:\dam ciclo\Programacion\Proyectos programacion\3 Trimestre\Proyecto\ProyectoBD\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+E:\dam ciclo\Programacion\Proyectos programacion\3 Trimestre\Proyecto\ProyectoBD\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+E:\dam ciclo\Programacion\Proyectos programacion\3 Trimestre\Proyecto\ProyectoBD\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+E:\dam ciclo\Programacion\Proyectos programacion\3 Trimestre\Proyecto\ProyectoBD\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+E:\dam ciclo\Programacion\Proyectos programacion\3 Trimestre\Proyecto\ProyectoBD\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+E:\dam ciclo\Programacion\Proyectos programacion\3 Trimestre\Proyecto\ProyectoBD\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\dam ciclo\Programacion\Proyectos programacion\3 Trimestre\Proyecto\ProyectoBD\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+E:\dam ciclo\Programacion\Proyectos programacion\3 Trimestre\Proyecto\ProyectoBD\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+E:\dam ciclo\Programacion\Proyectos programacion\3 Trimestre\Proyecto\ProyectoBD\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+E:\dam ciclo\Programacion\Proyectos programacion\3 Trimestre\Proyecto\ProyectoBD\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+E:\dam ciclo\Programacion\Proyectos programacion\3 Trimestre\Proyecto\Nuevo Proyecto BD\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+E:\dam ciclo\Programacion\Proyectos programacion\3 Trimestre\Proyecto\Nuevo Proyecto BD\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+E:\dam ciclo\Programacion\Proyectos programacion\3 Trimestre\Proyecto\Nuevo Proyecto BD\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+E:\dam ciclo\Programacion\Proyectos programacion\3 Trimestre\Proyecto\Nuevo Proyecto BD\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\dam ciclo\Programacion\Proyectos programacion\3 Trimestre\Proyecto\Nuevo Proyecto BD\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+E:\dam ciclo\Programacion\Proyectos programacion\3 Trimestre\Proyecto\Nuevo Proyecto BD\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+E:\dam ciclo\Programacion\Proyectos programacion\3 Trimestre\Proyecto\Nuevo Proyecto BD\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+E:\dam ciclo\Programacion\Proyectos programacion\3 Trimestre\Proyecto\Nuevo Proyecto BD\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+E:\dam ciclo\Programacion\Proyectos programacion\3 Trimestre\Proyecto\Nuevo Proyecto BD\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+E:\dam ciclo\Programacion\Proyectos programacion\3 Trimestre\Proyecto\Nuevo Proyecto BD\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+E:\dam ciclo\Programacion\Proyectos programacion\3 Trimestre\Proyecto\Nuevo Proyecto BD\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+E:\dam ciclo\Programacion\Proyectos programacion\3 Trimestre\Proyecto\Nuevo Proyecto BD\WindowsFormsApp1_v2\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+E:\dam ciclo\Programacion\Proyectos programacion\3 Trimestre\Proyecto\Nuevo Proyecto BD\WindowsFormsApp1_v2\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+E:\dam ciclo\Programacion\Proyectos programacion\3 Trimestre\Proyecto\Nuevo Proyecto BD\WindowsFormsApp1_v2\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+E:\dam ciclo\Programacion\Proyectos programacion\3 Trimestre\Proyecto\Nuevo Proyecto BD\WindowsFormsApp1_v2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+E:\dam ciclo\Programacion\Proyectos programacion\3 Trimestre\Proyecto\Nuevo Proyecto BD\WindowsFormsApp1_v2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+E:\dam ciclo\Programacion\Proyectos programacion\3 Trimestre\Proyecto\Nuevo Proyecto BD\WindowsFormsApp1_v2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+E:\dam ciclo\Programacion\Proyectos programacion\3 Trimestre\Proyecto\Nuevo Proyecto BD\WindowsFormsApp1_v2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\dam ciclo\Programacion\Proyectos programacion\3 Trimestre\Proyecto\Nuevo Proyecto BD\WindowsFormsApp1_v2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+E:\dam ciclo\Programacion\Proyectos programacion\3 Trimestre\Proyecto\Nuevo Proyecto BD\WindowsFormsApp1_v2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+E:\dam ciclo\Programacion\Proyectos programacion\3 Trimestre\Proyecto\Nuevo Proyecto BD\WindowsFormsApp1_v2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+E:\dam ciclo\Programacion\Proyectos programacion\3 Trimestre\Proyecto\Nuevo Proyecto BD\WindowsFormsApp1_v2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+E:\dam ciclo\Programacion\Proyectos programacion\3 Trimestre\Proyecto\Nuevo Proyecto BD\WindowsFormsApp1_v3\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+E:\dam ciclo\Programacion\Proyectos programacion\3 Trimestre\Proyecto\Nuevo Proyecto BD\WindowsFormsApp1_v3\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+E:\dam ciclo\Programacion\Proyectos programacion\3 Trimestre\Proyecto\Nuevo Proyecto BD\WindowsFormsApp1_v3\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+E:\dam ciclo\Programacion\Proyectos programacion\3 Trimestre\Proyecto\Nuevo Proyecto BD\WindowsFormsApp1_v3\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+E:\dam ciclo\Programacion\Proyectos programacion\3 Trimestre\Proyecto\Nuevo Proyecto BD\WindowsFormsApp1_v3\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+E:\dam ciclo\Programacion\Proyectos programacion\3 Trimestre\Proyecto\Nuevo Proyecto BD\WindowsFormsApp1_v3\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+E:\dam ciclo\Programacion\Proyectos programacion\3 Trimestre\Proyecto\Nuevo Proyecto BD\WindowsFormsApp1_v3\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\dam ciclo\Programacion\Proyectos programacion\3 Trimestre\Proyecto\Nuevo Proyecto BD\WindowsFormsApp1_v3\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+E:\dam ciclo\Programacion\Proyectos programacion\3 Trimestre\Proyecto\Nuevo Proyecto BD\WindowsFormsApp1_v3\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+E:\dam ciclo\Programacion\Proyectos programacion\3 Trimestre\Proyecto\Nuevo Proyecto BD\WindowsFormsApp1_v3\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+E:\dam ciclo\Programacion\Proyectos programacion\3 Trimestre\Proyecto\Nuevo Proyecto BD\WindowsFormsApp1_v3\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+E:\dam ciclo\Programacion\Proyectos programacion\3 Trimestre\Proyecto\Nuevo Proyecto BD\WindowsFormsApp1_v3\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form3.resources
+E:\dam ciclo\Programacion\Proyectos programacion\3 Trimestre\Proyecto\Nuevo Proyecto BD\WindowsFormsApp1_v4\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+E:\dam ciclo\Programacion\Proyectos programacion\3 Trimestre\Proyecto\Nuevo Proyecto BD\WindowsFormsApp1_v4\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+E:\dam ciclo\Programacion\Proyectos programacion\3 Trimestre\Proyecto\Nuevo Proyecto BD\WindowsFormsApp1_v4\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+E:\dam ciclo\Programacion\Proyectos programacion\3 Trimestre\Proyecto\Nuevo Proyecto BD\WindowsFormsApp1_v4\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+E:\dam ciclo\Programacion\Proyectos programacion\3 Trimestre\Proyecto\Nuevo Proyecto BD\WindowsFormsApp1_v4\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+E:\dam ciclo\Programacion\Proyectos programacion\3 Trimestre\Proyecto\Nuevo Proyecto BD\WindowsFormsApp1_v4\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+E:\dam ciclo\Programacion\Proyectos programacion\3 Trimestre\Proyecto\Nuevo Proyecto BD\WindowsFormsApp1_v4\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form3.resources
+E:\dam ciclo\Programacion\Proyectos programacion\3 Trimestre\Proyecto\Nuevo Proyecto BD\WindowsFormsApp1_v4\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\dam ciclo\Programacion\Proyectos programacion\3 Trimestre\Proyecto\Nuevo Proyecto BD\WindowsFormsApp1_v4\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+E:\dam ciclo\Programacion\Proyectos programacion\3 Trimestre\Proyecto\Nuevo Proyecto BD\WindowsFormsApp1_v4\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+E:\dam ciclo\Programacion\Proyectos programacion\3 Trimestre\Proyecto\Nuevo Proyecto BD\WindowsFormsApp1_v4\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+E:\dam ciclo\Programacion\Proyectos programacion\3 Trimestre\Proyecto\Nuevo Proyecto BD\WindowsFormsApp1_v4\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+E:\dam ciclo\Programacion\Proyectos programacion\3 Trimestre\Proyecto\Nuevo Proyecto BD\WindowsFormsApp1_v5\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+E:\dam ciclo\Programacion\Proyectos programacion\3 Trimestre\Proyecto\Nuevo Proyecto BD\WindowsFormsApp1_v5\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+E:\dam ciclo\Programacion\Proyectos programacion\3 Trimestre\Proyecto\Nuevo Proyecto BD\WindowsFormsApp1_v5\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+E:\dam ciclo\Programacion\Proyectos programacion\3 Trimestre\Proyecto\Nuevo Proyecto BD\WindowsFormsApp1_v5\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+E:\dam ciclo\Programacion\Proyectos programacion\3 Trimestre\Proyecto\Nuevo Proyecto BD\WindowsFormsApp1_v5\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+E:\dam ciclo\Programacion\Proyectos programacion\3 Trimestre\Proyecto\Nuevo Proyecto BD\WindowsFormsApp1_v5\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+E:\dam ciclo\Programacion\Proyectos programacion\3 Trimestre\Proyecto\Nuevo Proyecto BD\WindowsFormsApp1_v5\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form3.resources
+E:\dam ciclo\Programacion\Proyectos programacion\3 Trimestre\Proyecto\Nuevo Proyecto BD\WindowsFormsApp1_v5\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\dam ciclo\Programacion\Proyectos programacion\3 Trimestre\Proyecto\Nuevo Proyecto BD\WindowsFormsApp1_v5\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+E:\dam ciclo\Programacion\Proyectos programacion\3 Trimestre\Proyecto\Nuevo Proyecto BD\WindowsFormsApp1_v5\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+E:\dam ciclo\Programacion\Proyectos programacion\3 Trimestre\Proyecto\Nuevo Proyecto BD\WindowsFormsApp1_v5\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+E:\dam ciclo\Programacion\Proyectos programacion\3 Trimestre\Proyecto\Nuevo Proyecto BD\WindowsFormsApp1_v5\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+E:\dam ciclo\Programacion\Proyectos programacion\3 Trimestre\Proyecto\Nuevo Proyecto BD\WindowsFormsApp1_v6\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+E:\dam ciclo\Programacion\Proyectos programacion\3 Trimestre\Proyecto\Nuevo Proyecto BD\WindowsFormsApp1_v6\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+E:\dam ciclo\Programacion\Proyectos programacion\3 Trimestre\Proyecto\Nuevo Proyecto BD\WindowsFormsApp1_v6\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+E:\dam ciclo\Programacion\Proyectos programacion\3 Trimestre\Proyecto\Nuevo Proyecto BD\WindowsFormsApp1_v6\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+E:\dam ciclo\Programacion\Proyectos programacion\3 Trimestre\Proyecto\Nuevo Proyecto BD\WindowsFormsApp1_v6\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+E:\dam ciclo\Programacion\Proyectos programacion\3 Trimestre\Proyecto\Nuevo Proyecto BD\WindowsFormsApp1_v6\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+E:\dam ciclo\Programacion\Proyectos programacion\3 Trimestre\Proyecto\Nuevo Proyecto BD\WindowsFormsApp1_v6\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form3.resources
+E:\dam ciclo\Programacion\Proyectos programacion\3 Trimestre\Proyecto\Nuevo Proyecto BD\WindowsFormsApp1_v6\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\dam ciclo\Programacion\Proyectos programacion\3 Trimestre\Proyecto\Nuevo Proyecto BD\WindowsFormsApp1_v6\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+E:\dam ciclo\Programacion\Proyectos programacion\3 Trimestre\Proyecto\Nuevo Proyecto BD\WindowsFormsApp1_v6\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+E:\dam ciclo\Programacion\Proyectos programacion\3 Trimestre\Proyecto\Nuevo Proyecto BD\WindowsFormsApp1_v6\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+E:\dam ciclo\Programacion\Proyectos programacion\3 Trimestre\Proyecto\Nuevo Proyecto BD\WindowsFormsApp1_v6\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+E:\dam ciclo\Programacion\Proyectos programacion\3 Trimestre\Proyecto\Nuevo Proyecto BD\WindowsFormsApp1_v7\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+E:\dam ciclo\Programacion\Proyectos programacion\3 Trimestre\Proyecto\Nuevo Proyecto BD\WindowsFormsApp1_v7\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+E:\dam ciclo\Programacion\Proyectos programacion\3 Trimestre\Proyecto\Nuevo Proyecto BD\WindowsFormsApp1_v7\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+E:\dam ciclo\Programacion\Proyectos programacion\3 Trimestre\Proyecto\Nuevo Proyecto BD\WindowsFormsApp1_v7\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+E:\dam ciclo\Programacion\Proyectos programacion\3 Trimestre\Proyecto\Nuevo Proyecto BD\WindowsFormsApp1_v7\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+E:\dam ciclo\Programacion\Proyectos programacion\3 Trimestre\Proyecto\Nuevo Proyecto BD\WindowsFormsApp1_v7\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+E:\dam ciclo\Programacion\Proyectos programacion\3 Trimestre\Proyecto\Nuevo Proyecto BD\WindowsFormsApp1_v7\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form3.resources
+E:\dam ciclo\Programacion\Proyectos programacion\3 Trimestre\Proyecto\Nuevo Proyecto BD\WindowsFormsApp1_v7\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\dam ciclo\Programacion\Proyectos programacion\3 Trimestre\Proyecto\Nuevo Proyecto BD\WindowsFormsApp1_v7\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+E:\dam ciclo\Programacion\Proyectos programacion\3 Trimestre\Proyecto\Nuevo Proyecto BD\WindowsFormsApp1_v7\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+E:\dam ciclo\Programacion\Proyectos programacion\3 Trimestre\Proyecto\Nuevo Proyecto BD\WindowsFormsApp1_v7\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+E:\dam ciclo\Programacion\Proyectos programacion\3 Trimestre\Proyecto\Nuevo Proyecto BD\WindowsFormsApp1_v7\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+E:\dam ciclo\Programacion\Proyectos programacion\3 Trimestre\Proyecto\Nuevo Proyecto BD\WindowsFormsApp1_v8\WindowsFormsApp1_v7\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+E:\dam ciclo\Programacion\Proyectos programacion\3 Trimestre\Proyecto\Nuevo Proyecto BD\WindowsFormsApp1_v8\WindowsFormsApp1_v7\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+E:\dam ciclo\Programacion\Proyectos programacion\3 Trimestre\Proyecto\Nuevo Proyecto BD\WindowsFormsApp1_v8\WindowsFormsApp1_v7\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+E:\dam ciclo\Programacion\Proyectos programacion\3 Trimestre\Proyecto\Nuevo Proyecto BD\WindowsFormsApp1_v8\WindowsFormsApp1_v7\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+E:\dam ciclo\Programacion\Proyectos programacion\3 Trimestre\Proyecto\Nuevo Proyecto BD\WindowsFormsApp1_v8\WindowsFormsApp1_v7\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+E:\dam ciclo\Programacion\Proyectos programacion\3 Trimestre\Proyecto\Nuevo Proyecto BD\WindowsFormsApp1_v8\WindowsFormsApp1_v7\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+E:\dam ciclo\Programacion\Proyectos programacion\3 Trimestre\Proyecto\Nuevo Proyecto BD\WindowsFormsApp1_v8\WindowsFormsApp1_v7\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form3.resources
+E:\dam ciclo\Programacion\Proyectos programacion\3 Trimestre\Proyecto\Nuevo Proyecto BD\WindowsFormsApp1_v8\WindowsFormsApp1_v7\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\dam ciclo\Programacion\Proyectos programacion\3 Trimestre\Proyecto\Nuevo Proyecto BD\WindowsFormsApp1_v8\WindowsFormsApp1_v7\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+E:\dam ciclo\Programacion\Proyectos programacion\3 Trimestre\Proyecto\Nuevo Proyecto BD\WindowsFormsApp1_v8\WindowsFormsApp1_v7\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+E:\dam ciclo\Programacion\Proyectos programacion\3 Trimestre\Proyecto\Nuevo Proyecto BD\WindowsFormsApp1_v8\WindowsFormsApp1_v7\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+E:\dam ciclo\Programacion\Proyectos programacion\3 Trimestre\Proyecto\Nuevo Proyecto BD\WindowsFormsApp1_v8\WindowsFormsApp1_v7\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+E:\dam ciclo\Programacion\Proyectos programacion\3 Trimestre\Proyecto\Nuevo Proyecto BD\WindowsFormsApp1_v9\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+E:\dam ciclo\Programacion\Proyectos programacion\3 Trimestre\Proyecto\Nuevo Proyecto BD\WindowsFormsApp1_v9\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+E:\dam ciclo\Programacion\Proyectos programacion\3 Trimestre\Proyecto\Nuevo Proyecto BD\WindowsFormsApp1_v9\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+E:\dam ciclo\Programacion\Proyectos programacion\3 Trimestre\Proyecto\Nuevo Proyecto BD\WindowsFormsApp1_v9\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+E:\dam ciclo\Programacion\Proyectos programacion\3 Trimestre\Proyecto\Nuevo Proyecto BD\WindowsFormsApp1_v9\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+E:\dam ciclo\Programacion\Proyectos programacion\3 Trimestre\Proyecto\Nuevo Proyecto BD\WindowsFormsApp1_v9\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+E:\dam ciclo\Programacion\Proyectos programacion\3 Trimestre\Proyecto\Nuevo Proyecto BD\WindowsFormsApp1_v9\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form3.resources
+E:\dam ciclo\Programacion\Proyectos programacion\3 Trimestre\Proyecto\Nuevo Proyecto BD\WindowsFormsApp1_v9\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\dam ciclo\Programacion\Proyectos programacion\3 Trimestre\Proyecto\Nuevo Proyecto BD\WindowsFormsApp1_v9\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+E:\dam ciclo\Programacion\Proyectos programacion\3 Trimestre\Proyecto\Nuevo Proyecto BD\WindowsFormsApp1_v9\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+E:\dam ciclo\Programacion\Proyectos programacion\3 Trimestre\Proyecto\Nuevo Proyecto BD\WindowsFormsApp1_v9\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+E:\dam ciclo\Programacion\Proyectos programacion\3 Trimestre\Proyecto\Nuevo Proyecto BD\WindowsFormsApp1_v9\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+E:\dam ciclo\Programacion\Proyectos programacion\3 Trimestre\Proyecto\Nuevo Proyecto BD\WindowsFormsApp1_v10\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+E:\dam ciclo\Programacion\Proyectos programacion\3 Trimestre\Proyecto\Nuevo Proyecto BD\WindowsFormsApp1_v10\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+E:\dam ciclo\Programacion\Proyectos programacion\3 Trimestre\Proyecto\Nuevo Proyecto BD\WindowsFormsApp1_v10\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+E:\dam ciclo\Programacion\Proyectos programacion\3 Trimestre\Proyecto\Nuevo Proyecto BD\WindowsFormsApp1_v10\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+E:\dam ciclo\Programacion\Proyectos programacion\3 Trimestre\Proyecto\Nuevo Proyecto BD\WindowsFormsApp1_v10\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+E:\dam ciclo\Programacion\Proyectos programacion\3 Trimestre\Proyecto\Nuevo Proyecto BD\WindowsFormsApp1_v10\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+E:\dam ciclo\Programacion\Proyectos programacion\3 Trimestre\Proyecto\Nuevo Proyecto BD\WindowsFormsApp1_v10\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form3.resources
+E:\dam ciclo\Programacion\Proyectos programacion\3 Trimestre\Proyecto\Nuevo Proyecto BD\WindowsFormsApp1_v10\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\dam ciclo\Programacion\Proyectos programacion\3 Trimestre\Proyecto\Nuevo Proyecto BD\WindowsFormsApp1_v10\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+E:\dam ciclo\Programacion\Proyectos programacion\3 Trimestre\Proyecto\Nuevo Proyecto BD\WindowsFormsApp1_v10\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+E:\dam ciclo\Programacion\Proyectos programacion\3 Trimestre\Proyecto\Nuevo Proyecto BD\WindowsFormsApp1_v10\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+E:\dam ciclo\Programacion\Proyectos programacion\3 Trimestre\Proyecto\Nuevo Proyecto BD\WindowsFormsApp1_v10\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+E:\dam ciclo\Programacion\Proyectos programacion\3 Trimestre\Proyecto\Nuevo Proyecto BD\WindowsFormsApp1_v11\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+E:\dam ciclo\Programacion\Proyectos programacion\3 Trimestre\Proyecto\Nuevo Proyecto BD\WindowsFormsApp1_v11\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+E:\dam ciclo\Programacion\Proyectos programacion\3 Trimestre\Proyecto\Nuevo Proyecto BD\WindowsFormsApp1_v11\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+E:\dam ciclo\Programacion\Proyectos programacion\3 Trimestre\Proyecto\Nuevo Proyecto BD\WindowsFormsApp1_v11\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+E:\dam ciclo\Programacion\Proyectos programacion\3 Trimestre\Proyecto\Nuevo Proyecto BD\WindowsFormsApp1_v11\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+E:\dam ciclo\Programacion\Proyectos programacion\3 Trimestre\Proyecto\Nuevo Proyecto BD\WindowsFormsApp1_v11\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+E:\dam ciclo\Programacion\Proyectos programacion\3 Trimestre\Proyecto\Nuevo Proyecto BD\WindowsFormsApp1_v11\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form3.resources
+E:\dam ciclo\Programacion\Proyectos programacion\3 Trimestre\Proyecto\Nuevo Proyecto BD\WindowsFormsApp1_v11\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form4.resources
+E:\dam ciclo\Programacion\Proyectos programacion\3 Trimestre\Proyecto\Nuevo Proyecto BD\WindowsFormsApp1_v11\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\dam ciclo\Programacion\Proyectos programacion\3 Trimestre\Proyecto\Nuevo Proyecto BD\WindowsFormsApp1_v11\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+E:\dam ciclo\Programacion\Proyectos programacion\3 Trimestre\Proyecto\Nuevo Proyecto BD\WindowsFormsApp1_v11\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+E:\dam ciclo\Programacion\Proyectos programacion\3 Trimestre\Proyecto\Nuevo Proyecto BD\WindowsFormsApp1_v11\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+E:\dam ciclo\Programacion\Proyectos programacion\3 Trimestre\Proyecto\Nuevo Proyecto BD\WindowsFormsApp1_v11\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+E:\dam ciclo\Programacion\Proyectos programacion\3 Trimestre\Proyecto\Nuevo Proyecto BD\WindowsFormsApp1_v12\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+E:\dam ciclo\Programacion\Proyectos programacion\3 Trimestre\Proyecto\Nuevo Proyecto BD\WindowsFormsApp1_v12\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+E:\dam ciclo\Programacion\Proyectos programacion\3 Trimestre\Proyecto\Nuevo Proyecto BD\WindowsFormsApp1_v12\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+E:\dam ciclo\Programacion\Proyectos programacion\3 Trimestre\Proyecto\Nuevo Proyecto BD\WindowsFormsApp1_v12\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+E:\dam ciclo\Programacion\Proyectos programacion\3 Trimestre\Proyecto\Nuevo Proyecto BD\WindowsFormsApp1_v12\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+E:\dam ciclo\Programacion\Proyectos programacion\3 Trimestre\Proyecto\Nuevo Proyecto BD\WindowsFormsApp1_v12\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+E:\dam ciclo\Programacion\Proyectos programacion\3 Trimestre\Proyecto\Nuevo Proyecto BD\WindowsFormsApp1_v12\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form3.resources
+E:\dam ciclo\Programacion\Proyectos programacion\3 Trimestre\Proyecto\Nuevo Proyecto BD\WindowsFormsApp1_v12\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form4.resources
+E:\dam ciclo\Programacion\Proyectos programacion\3 Trimestre\Proyecto\Nuevo Proyecto BD\WindowsFormsApp1_v12\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\dam ciclo\Programacion\Proyectos programacion\3 Trimestre\Proyecto\Nuevo Proyecto BD\WindowsFormsApp1_v12\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+E:\dam ciclo\Programacion\Proyectos programacion\3 Trimestre\Proyecto\Nuevo Proyecto BD\WindowsFormsApp1_v12\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+E:\dam ciclo\Programacion\Proyectos programacion\3 Trimestre\Proyecto\Nuevo Proyecto BD\WindowsFormsApp1_v12\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+E:\dam ciclo\Programacion\Proyectos programacion\3 Trimestre\Proyecto\Nuevo Proyecto BD\WindowsFormsApp1_v12\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+E:\dam ciclo\Programacion\Proyectos programacion\3 Trimestre\Proyecto\Nuevo Proyecto BD\WindowsFormsApp1_v13\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+E:\dam ciclo\Programacion\Proyectos programacion\3 Trimestre\Proyecto\Nuevo Proyecto BD\WindowsFormsApp1_v13\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+E:\dam ciclo\Programacion\Proyectos programacion\3 Trimestre\Proyecto\Nuevo Proyecto BD\WindowsFormsApp1_v13\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+E:\dam ciclo\Programacion\Proyectos programacion\3 Trimestre\Proyecto\Nuevo Proyecto BD\WindowsFormsApp1_v13\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+E:\dam ciclo\Programacion\Proyectos programacion\3 Trimestre\Proyecto\Nuevo Proyecto BD\WindowsFormsApp1_v13\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+E:\dam ciclo\Programacion\Proyectos programacion\3 Trimestre\Proyecto\Nuevo Proyecto BD\WindowsFormsApp1_v13\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+E:\dam ciclo\Programacion\Proyectos programacion\3 Trimestre\Proyecto\Nuevo Proyecto BD\WindowsFormsApp1_v13\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form3.resources
+E:\dam ciclo\Programacion\Proyectos programacion\3 Trimestre\Proyecto\Nuevo Proyecto BD\WindowsFormsApp1_v13\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form4.resources
+E:\dam ciclo\Programacion\Proyectos programacion\3 Trimestre\Proyecto\Nuevo Proyecto BD\WindowsFormsApp1_v13\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\dam ciclo\Programacion\Proyectos programacion\3 Trimestre\Proyecto\Nuevo Proyecto BD\WindowsFormsApp1_v13\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+E:\dam ciclo\Programacion\Proyectos programacion\3 Trimestre\Proyecto\Nuevo Proyecto BD\WindowsFormsApp1_v13\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+E:\dam ciclo\Programacion\Proyectos programacion\3 Trimestre\Proyecto\Nuevo Proyecto BD\WindowsFormsApp1_v13\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+E:\dam ciclo\Programacion\Proyectos programacion\3 Trimestre\Proyecto\Nuevo Proyecto BD\WindowsFormsApp1_v13\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+E:\dam ciclo\Programacion\Proyectos programacion\3 Trimestre\Proyecto\Nuevo Proyecto BD\WindowsFormsApp1_v14\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+E:\dam ciclo\Programacion\Proyectos programacion\3 Trimestre\Proyecto\Nuevo Proyecto BD\WindowsFormsApp1_v14\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+E:\dam ciclo\Programacion\Proyectos programacion\3 Trimestre\Proyecto\Nuevo Proyecto BD\WindowsFormsApp1_v14\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+E:\dam ciclo\Programacion\Proyectos programacion\3 Trimestre\Proyecto\Nuevo Proyecto BD\WindowsFormsApp1_v14\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+E:\dam ciclo\Programacion\Proyectos programacion\3 Trimestre\Proyecto\Nuevo Proyecto BD\WindowsFormsApp1_v14\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+E:\dam ciclo\Programacion\Proyectos programacion\3 Trimestre\Proyecto\Nuevo Proyecto BD\WindowsFormsApp1_v14\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+E:\dam ciclo\Programacion\Proyectos programacion\3 Trimestre\Proyecto\Nuevo Proyecto BD\WindowsFormsApp1_v14\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form3.resources
+E:\dam ciclo\Programacion\Proyectos programacion\3 Trimestre\Proyecto\Nuevo Proyecto BD\WindowsFormsApp1_v14\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form4.resources
+E:\dam ciclo\Programacion\Proyectos programacion\3 Trimestre\Proyecto\Nuevo Proyecto BD\WindowsFormsApp1_v14\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\dam ciclo\Programacion\Proyectos programacion\3 Trimestre\Proyecto\Nuevo Proyecto BD\WindowsFormsApp1_v14\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+E:\dam ciclo\Programacion\Proyectos programacion\3 Trimestre\Proyecto\Nuevo Proyecto BD\WindowsFormsApp1_v14\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+E:\dam ciclo\Programacion\Proyectos programacion\3 Trimestre\Proyecto\Nuevo Proyecto BD\WindowsFormsApp1_v14\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+E:\dam ciclo\Programacion\Proyectos programacion\3 Trimestre\Proyecto\Nuevo Proyecto BD\WindowsFormsApp1_v14\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
